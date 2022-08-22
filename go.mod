@@ -1,4 +1,4 @@
-module github.com/pboyd04/MotoGo
+module github.com/lloovve/MotoGo
 
 go 1.13
 
